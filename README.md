@@ -1,11 +1,4 @@
 # CodeIgniter 4 Application Starter
-<div align="center">
-
-<hr/>
-<table>
-<tr>
-<td align="center">
-
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
@@ -20,55 +13,41 @@ More information about the plans for version 4 can be found in [CodeIgniter 4](h
 You can read the [user guide](https://codeigniter.com/user_guide/)
 corresponding to the latest version of the framework.
 
-## Installation & updates
+##Images
 
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee1b5ef0-d094-4b7a-b864-0cf69478f9fa" />
 
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d0d5848-24a1-4664-a5d4-3cba6b4c370a" />
 
-## Setup
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b6765ce-037f-456b-adae-c288c69e747c" />
 
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d176c85-eb79-43b8-a2a2-66f427cd8440" />
 
-## Important Change with index.php
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/01ed7938-dc78-448e-b327-cd112132fbf9" />
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acc9bf9c-5524-4620-98c3-116d1b84122b" />
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5ae7e41-91b7-45df-8f03-8bec7683f88d" />
 
-**Please** read the user guide for a better explanation of how CI4 works!
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/853bdf56-8952-46fe-833d-0566276fc92b" />
 
-## Repository Management
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb080cc0-5957-47b7-86bc-e4dfe673987f" />
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/457f4e24-0291-404b-8086-62eb2f341ee8" />
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0a5ba4b-ee86-4f2b-9f74-0bcf144e8090" />
 
-## Server Requirements
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72433de4-6666-4114-ae63-ad229c6fcb11" />
 
-PHP version 8.1 or higher is required, with the following extensions installed:
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
 
-> [!WARNING]
-> - The end of life date for PHP 7.4 was November 28, 2022.
-> - The end of life date for PHP 8.0 was November 26, 2023.
-> - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
-> - The end of life date for PHP 8.1 will be December 31, 2025.
 
-Additionally, make sure that the following extensions are enabled in your PHP:
 
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+
+
+
+
+
+
+
