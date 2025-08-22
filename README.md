@@ -1,6 +1,6 @@
 # CodeIgniter 4 Application Starter
 <div align="center">
-[<img src="https://github.com/Sarguroh20/realtime-editor/assets/116432233/efd120d0-0ccf-44d8-8ceb-3707c0d281d2" style="width:30%; height:30%;" /> ](https://logos-world.net/wp-content/uploads/2021/08/Blogger-Logo.png)
+
 <hr/>
 <table>
 <tr>
